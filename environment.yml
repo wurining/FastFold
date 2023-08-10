@@ -1,4 +1,4 @@
-name: fastfold
+name: multi-fold-fastfold
 channels:
   - conda-forge
   - bioconda
